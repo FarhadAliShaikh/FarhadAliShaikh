@@ -56,7 +56,7 @@ Building intelligent, production-ready systems with expertise in <b>Machine Lear
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/farhad-ali-shaikh-658838226/">
+  <a href="https://www.linkedin.com/in/farhad-ali-shaikh">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
